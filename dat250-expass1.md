@@ -56,7 +56,7 @@ echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/selvakumar/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)" 
 ```
 
-	then my brew was installed
+then my brew was installed
 ``brew -v ``
 ``Homebrew 3.5.10``
 ``Homebrew/homebrew-core (git revision 26b52fe6a6f; last commit 2022-08-25``
