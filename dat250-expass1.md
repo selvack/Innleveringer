@@ -79,6 +79,9 @@ Had to install Postgres before I was able to get started
 
 I had no problem following the tutorial and everything seemed to work fine. 
 
+# Remaining tasks / unsolved problems
+I cant get heroku to push files to my github account.
+
 
 ## Link to heroku app
 https://shielded-earth-80955.herokuapp.com/
