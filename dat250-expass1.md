@@ -11,7 +11,7 @@ For the software installation development environment, I chose to use Homebrew t
 Open terminal and write this code:
 `` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ``
 
-	```
+
 ``brew -v``
 <br />
 #### 2.  Java
@@ -50,11 +50,11 @@ https://formulae.brew.sh/formula/git
 #### 1. Homebrew
 When I tried to install Homebrew on my system i got an warning saying that ``opt/homebrew/bin is not in your PATH``
 At the end of the installation log the system responded
-``
+```sh
 => Next steps: 
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/selvakumar/.zprofile 
 eval "$(/opt/homebrew/bin/brew shellenv)" 
-``
+```
 
 	then my brew was installed
 ``brew -v ``
